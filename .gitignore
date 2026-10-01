@@ -59,4 +59,3 @@ example/
 # Pre-sanitization annotated screenshot (real ticket data shows through) —
 # replaced by images/anatomy.png on a sanitized capture
 images/screenshot3.png
-config.bat
